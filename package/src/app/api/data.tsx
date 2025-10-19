@@ -48,28 +48,28 @@ export const BeneifitImage = [
     image: "/images/benefit/pic.svg",
     alt: "Trusted brand",
     details:
-      "Stop wasteful spend and save thousands with unlimited points and insights that maximize savings.",
+      "Reduce response time from hours to seconds.",
   },
   {
     image: "/images/benefit/contact.svg",
     alt: "Trusted brand",
-    details: "See where the company money is going in real time.",
+    details: "Capture leads outside business hours.",
   },
   {
     image: "/images/benefit/bank.svg",
     alt: "Trusted brand",
-    details: "Powered by the free app that helps you run your whole business.",
+    details: "Free up staff time for complex tasks.",
   },
   {
     image: "/images/benefit/files.svg",
     alt: "Trusted brand",
-    details: "No more lost receipts and tedious paperwork.",
+    details: "Improve customer satisfaction scores.",
   },
   {
     image: "/images/benefit/setting.svg",
     alt: "Trusted brand",
     details:
-      "It's an all-digital card designed for online, and even in-store shopping.",
+      "Scale customer service without hiring additional staff.",
   },
 ];
 
