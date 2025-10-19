@@ -40,7 +40,7 @@ const Benefit = () => {
             </div>
             <div className="xl:col-span-6 col-span-12" >
               <p className="sm:text-25 text-18 text-midnight_text font-medium dark:text-white">
-                Grow revenues by ready-to-use AI automation solutions.
+                Grow revenues by ready-to-use AI automation solutions!
               </p>
               {BeneifitImage.map((item, index) => (
                 <div key={index} className="sm:flex items-center mt-8">
